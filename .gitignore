@@ -1,0 +1,22 @@
+# qtcreator files
+*.cflags
+*.config
+*.creator
+*.cxxflags
+*.files
+*.includes
+*.creator.user
+# vim files
+.*.swp
+# vs code files
+.vscode/
+# build files
+*.o
+build/
+bin/
+XXX/
+*.~[0-9]~
+*.zip
+.DS_Store
+fuzz-outputs/*
+!fuzz-outputs/fuzzer-output-will-go-here
